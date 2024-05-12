@@ -1,0 +1,25 @@
+Bu uygulama, tarihi olayları ve hikayeleri gösteren basit bir arayüze sahiptir. İşte uygulamayı kullanmanın adımları:
+
+Olay Seçin:
+
+Uygulama başladığında, bir dizi önceden tanımlanmış tarihi olay listesi görüntülenir. Bu olaylardan birini seçmek için açılır menüyü kullanın.
+
+Hikayeyi Görüntüle:
+
+"Hikayeyi Görüntüle" düğmesine tıkladığınızda, seçilen olayın hikayesi metin kutusunda görüntülenir.
+
+Kişi Seçin:
+
+Aynı olayın kişileri de bir alt menüde görüntülenir. Bu kişilerden birini seçmek için kişi açılır menüsünü kullanın.
+
+Kişi Bilgileri:
+
+Seçilen kişi hakkında bilgiler metin kutusunda görüntülenir.
+
+Ek Bilgiler:
+
+Seçilen olay hakkında ek bilgiler, diğer bir metin kutusunda görüntülenir.
+
+Olay Ekle:
+
+Eğer uygulamada bulunan tarihi olaylar arasında olmayan yeni bir olay eklemek istiyorsanız, "Olay Ekle" düğmesine tıklayarak yeni bir olay ekleyebilirsiniz.

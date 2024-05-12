@@ -1,0 +1,18 @@
+Bu uygulama, Python programlama dili ve Tkinter kütüphanesi kullanılarak oluşturulmuştur. İşlevselliği ve kullanıcı arayüzü aşağıdaki sınıflar ve yöntemler aracılığıyla sağlanmıştır:
+
+Oyun Sınıfı:
+
+Bu sınıf, bir video oyununu temsil eder ve oyunun adı, türü, platformu, yıldız derecesi ve kullanıcı yorumu gibi özelliklerini içerir.
+Koleksiyon Sınıfı:
+
+Bu sınıf, bir oyuncunun sahip olduğu oyunların koleksiyonunu temsil eder. Koleksiyona oyun eklemek için bir yöntem içerir.
+Oyuncu Sınıfı:
+
+Bu sınıf, bir oyuncuyu temsil eder ve oyun koleksiyonu ile favori oyunlarını yönetir.
+YorumEkleDialog, FavoriOyunlarDialog ve YorumlarDialog Sınıfları:
+
+Bu sınıflar, kullanıcı arayüzündeki farklı iletişim kutularını (dialogları) temsil eder.
+AnaPencere Sınıfı:
+
+Bu sınıf, uygulamanın ana penceresini ve kullanıcı etkileşimini yönetir. Oyun ekleme, yıldız derecelendirme, yorum ekleme, favori oyunları görüntüleme ve oyun yorumlarını görüntüleme gibi işlevselliği sağlar.
+Bu belge ve kılavuz, kullanıcıların uygulamayı kullanırken rehberlik etmek ve temel işlevselliği anlamalarını sağlamak için tasarlanmıştır. Uygulama, kullanıcı dostu bir arayüze sahiptir ve kolayca etkileşime girebilirsiniz.

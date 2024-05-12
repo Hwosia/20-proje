@@ -1,0 +1,29 @@
+Film ve Dizi İzleme Servisi Teknik Belgesi
+Bu bölüm, uygulamanın iç yapısını ve nasıl çalıştığını anlatır.
+
+Uygulama Yapısı:
+Tkinter Arayüzü: Uygulama, Tkinter kütüphanesi kullanılarak bir GUI (Grafiksel Kullanıcı Arayüzü) ile oluşturulmuştur.
+
+SQLite Veritabanı: Filmler, izleme listeleri ve izleme geçmişi gibi veriler, SQLite veritabanında depolanmaktadır.
+
+Film ve Kullanıcı Sınıfları: Film ve Kullanici sınıfları, filmleri ve kullanıcı bilgilerini temsil eder.
+
+Film Servisi Sınıfı: FilmServisi sınıfı, uygulamanın ana yapısını oluşturur ve Tkinter ile ilişkilendirir.
+
+Kod Yapısı:
+Veritabanı Bağlantısı: SQLite veritabanı ile bağlantı kurulur ve gerekli tablolar oluşturulur.
+Kullanıcı Girişi: Kullanıcı adı ve şifreyle giriş yapılır (sabit olarak belirlenmiştir).
+Film Ekleme: Kullanıcılar, film adı, yönetmen ve tür bilgilerini girerek yeni film ekleyebilirler.
+Filmleri Listeleme: Mevcut filmler listelenir ve kullanıcılar istedikleri filmi çift tıklayarak izlemeye başlayabilirler.
+İzleme Listesi Oluşturma: Kullanıcılar, izlemek istedikleri filmleri seçerek yeni izleme listesi oluşturabilirler.
+İzleme Geçmişi Görüntüleme: Kullanıcılar, daha önce oluşturdukları izleme listelerini ve izledikleri filmleri görüntüleyebilirler.
+
+Veritabanı Yapısı:
+film_veritabani.db: SQLite veritabanı dosyasıdır.
+Tablolar: filmler, izleme_listeleri ve izleme_listesi_filmler gibi tablolar, ilgili verileri depolar.
+Özel Fonksiyonlar:
+film_ekle_dialog_ac(): Yeni film eklemek için bir iletişim kutusu açar.
+film_ekle(): Kullanıcının girdiği bilgileri alarak yeni bir film ekler.
+izleme_listesi_olustur(): Yeni bir izleme listesi oluşturmak için bir iletişim kutusu açar ve kullanıcının seçtiği filmleri kaydeder.
+izleme_gecmisi_goster(): Kullanıcının izleme geçmişini görüntülemesini sağlar ve gerektiğinde izleme listelerini silebilir.
+Bu belge, uygulamanın temel işlevlerini ve teknik detaylarını anlatmaktadır. Uygulamayı geliştirmek veya özelleştirmek için bu bilgileri kullanabilirsiniz.

@@ -1,0 +1,25 @@
+Bu müşteri ilişkileri yönetim uygulaması oldukça kullanıcı dostu ve işlevsel bir arayüze sahiptir. 
+İşte sistemi kullanmanın adımları:
+------------------------------------------------------------------------
+Müşteri Ekleme:
+
+"Müşteri Ekle" sekmesine geçin.
+Müşterinin adını, soyadını, TC kimlik numarasını, telefon numarasını ve satın aldığı ürünlerin ID'sini girin.
+"Satın Alınan Ürünler" kısmına her satırda bir ürün olacak şekilde satın alınan ürünlerin adlarını girin.
+"Müşteri Ekle" düğmesine tıklayarak müşteriyi ekleyin.
+Müşteri başarıyla eklenirse, bir bildirim penceresiyle bilgilendirilirsiniz.
+------------------------------------------------------------------------
+Satış Takibi:
+
+"Satış Takibi" sekmesine geçin.
+Bu sekmede, yapılan satışların bir listesi görüntülenir. Satışlar, ürün ID'si, müşteri adı, ürün adı ve satış tarihi olarak sıralanır.
+Bir satışı silmek için, ilgili satışın üzerine sağ tıklayın. Açılan menüden "Sil" seçeneğine tıklayarak satışı silebilirsiniz. Silme işlemi onaylanırsa, satış takibi otomatik olarak güncellenir.
+------------------------------------------------------------------------
+Destek Talepleri:
+
+"Destek Talepleri" sekmesine geçin.
+Bu sekmede, gelen destek taleplerinin bir listesi görüntülenir.
+Talep detayını görmek için, listeden bir talebi seçin ve "Talep Detayı" düğmesine tıklayın. Seçilen talebin detayları bir bildirim penceresinde görüntülenir.
+Talebi iptal etmek için, listeden bir talebi seçin ve "Talebi İptal Et" düğmesine tıklayın. Seçilen talep listeden kaldırılır.
+Bu adımları takip ederek müşteri ilişkileri yönetim uygulamasını etkili bir şekilde kullanabilirsiniz. Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bana bildirin!
+------------------------------------------------------------------------s

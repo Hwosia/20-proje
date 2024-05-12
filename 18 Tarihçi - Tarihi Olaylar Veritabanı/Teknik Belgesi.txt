@@ -1,0 +1,18 @@
+Bu uygulama, Python programlama dilinde Tkinter kütüphanesi kullanılarak oluşturulmuştur. Ayrıca, SQLite3 modülü veritabanı işlemleri için kullanılmıştır.
+
+TarihOlaylariUygulamasi Sınıfı:
+
+Bu sınıf, ana uygulama penceresini oluşturur.
+Tarihi olayları ve hikayelerini göstermek için Tkinter bileşenlerini kullanır.
+Tarihi olaylar seçildiğinde, ilgili bilgileri görüntüler.
+AddEventWindow Sınıfı:
+
+Bu sınıf, yeni bir tarihi olay eklemek için bir alt pencere oluşturur.
+Kullanıcıdan olay adı, açıklama ve ilgili kişileri alır.
+Yeni olay eklenirken, ana uygulamadaki liste güncellenir.
+main() Fonksiyonu:
+
+Ana uygulamayı başlatır ve Tkinter döngüsünü çalıştırır.
+
+
+Uygulama kullanıcı dostu bir arayüze ve basit bir işlevselliğe sahiptir, bu nedenle kullanıcılar kolayca etkileşime girebilir ve tarihi olaylar hakkında bilgi edinebilirler.

@@ -1,0 +1,33 @@
+Bu seyahat planlama uygulaması oldukça kullanıcı dostu ve kullanımı oldukça basittir. 
+İşte sistemi kullanmanın adımları:
+------------------------------------------------------------------------
+Seyahat Türü Seçme: 
+
+Uygulama başladığında, sol tarafta bulunan listeden bir seyahat turu seçin. Her bir seyahat turunun adı, tarihi ve fiyatı listelenir.
+------------------------------------------------------------------------
+Taşıma Seçeneği Belirleme: 
+
+Seyahat planlamak için, "Taşıma Seçenekleri" dropdown menüsünden uygun taşıma seçeneğini seçin. Otobüs, tren, uçak veya özel araç gibi seçenekler arasından tercihinizi yapabilirsiniz.
+------------------------------------------------------------------------
+Konaklama Seçeneği Belirleme: 
+
+Ayrıca, "Konaklama Seçenekleri" dropdown menüsünden konaklama tercihinizi seçin. Otel, pansiyon, ev kiralama veya kamp gibi seçenekler arasından seçim yapabilirsiniz.
+------------------------------------------------------------------------
+Seyahat Planlama: 
+
+Gerekli bilgileri seçtikten sonra, "Seyahat Planla" düğmesine tıklayın. Bu, seçtiğiniz seyahati planlayacak ve sağ taraftaki "Kayıtlı Seyahatler" bölümüne ekleyecektir.
+------------------------------------------------------------------------
+Seyahati İnceleme: 
+
+Eklenen her seyahatin yanında bir "İncele" düğmesi bulunmaktadır. Bu düğmeye tıkladığınızda, seçtiğiniz seyahatin detaylarını görüntüleyebilirsiniz.
+------------------------------------------------------------------------
+Seyahati İptal Etme: 
+
+İptal etmek istediğiniz bir seyahati listeden çıkarmak için, o seyahatin yanındaki "İptal Et" düğmesine tıklayın.
+------------------------------------------------------------------------
+Kullanıcı Dostu Arayüz: 
+
+Uygulama, kullanıcı dostu bir arayüze sahiptir ve seyahatleri eklemek, incelemek veya iptal etmek oldukça basittir.
+------------------------------------------------------------------------
+Uygulamayı kullanırken herhangi bir sorunla karşılaşırsanız, lütfen bana bildirin. Size yardımcı olmaktan mutluluk duyarım!
+------------------------------------------------------------------------

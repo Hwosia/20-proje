@@ -1,0 +1,33 @@
+Online Kurs Uygulaması Teknik Belgesi
+
+Bu belge, Online Kurs Uygulaması'nın kod yapısını, işlevlerini ve veritabanı kullanımını açıklar.
+
+1. Veritabanı Yapısı
+
+Uygulama SQLite veritabanı kullanır.
+kullanicilar tablosu, kullanıcıların bilgilerini (isim, e-posta, şifre) saklar.
+kurslar tablosu, kursların bilgilerini (başlık, yazar, alındı mı) saklar.
+materyaller tablosu, materyallerin bilgilerini (ID, adı) saklar.
+
+2. Ana Uygulama Sınıfı (KursUygulamasi)
+
+Tkinter kütüphanesi kullanılarak GUI oluşturulur.
+Kullanıcı kaydı, girişi, kurs ve materyal işlemleri için fonksiyonlar bulunur.
+Kullanıcı oturum durumu kontrol edilerek, ilgili sekmeler oluşturulur.
+
+3. Kullanıcı İşlemleri
+
+Kullanıcı kaydı (kayit_ol) ve girişi (giris) fonksiyonları sağlanır.
+Kayıt işlemi, veritabanına kullanıcı bilgilerini ekler.
+Giriş işlemi, veritabanında kullanıcı doğrulaması yapar.
+
+4. Kurs İşlemleri
+
+Kursları görüntüleme (kurslari_goster), satın alma (kursu_al), iade etme (iade_et) fonksiyonları sağlanır.
+Kurslar, veritabanından çekilerek listelenir.
+
+5. Materyal İşlemleri
+
+Materyalleri görüntüleme (update_materyal_panel), yükleme (materyal_yukle), erişim sağlama (materyal_erisim), silme (materyal_sil) fonksiyonları sağlanır.
+Materyaller, veritabanından çekilerek listelenir.
+Bu teknik belge, Online Kurs Uygulaması'nın iç işleyişini ve kod yapısını anlamanıza yardımcı olacaktır.

@@ -1,0 +1,33 @@
+Kütüphane Uygulaması Kullanım Kılavuzu
+Bu belge, Çevrim İçi Kitap Okuma Sistemi adlı kütüphane uygulamasının kullanımını adım adım açıklar. Bu uygulama, kullanıcıların kitapları aramasına, ödünç almasına, yorum yapmasına ve ödünç geçmişlerini görüntülemesine olanak tanır. Ayrıca, kullanıcılar yeni kayıt olabilir, giriş yapabilir ve bilgilerini güncelleyebilirler.
+--------------------------------------------------------------------------------------------------
+Adımlar:
+Uygulamanın Başlatılması:
+
+Uygulamayı çalıştırmak için, Python 3.x ve Tkinter kütüphanesinin bilgisayarınızda yüklü olması gerekir.
+Kod dosyasını çalıştırın: python kutuphane.py.
+Ardından, uygulama başlayacaktır.
+--------------------------------------------------------------------------------------------------
+Üye Girişi veya Kayıt Olma:
+
+Uygulamayı kullanmak için bir hesap oluşturmanız veya mevcut bir hesapla giriş yapmanız gerekir.
+Üye Girişi: Mevcut bir hesapla giriş yapmak için "Üye Girişi" butonuna tıklayın ve kullanıcı adı ve şifrenizi girin.
+Kayıt Olma: Yeni bir hesap oluşturmak için "Kayıt Ol" butonuna tıklayın ve gerekli bilgileri girin.
+--------------------------------------------------------------------------------------------------
+Kitap Arama ve Ödünç Alma:
+
+Kitap Sorgulama: Kitap aramak için kitap adı, yazar veya yayın evi gibi bilgileri girin ve "Sorgula" butonuna tıklayın.
+Ödünç Alma: Arama sonuçlarında bulunan bir kitabı seçin ve "Ödünç Al" butonuna tıklayın. Ardından, ödünç almak istediğiniz gün sayısını seçin ve "Tamam" butonuna tıklayarak işlemi tamamlayın.
+--------------------------------------------------------------------------------------------------
+Ödünç Geçmişi Görüntüleme:
+
+Ödünç aldığınız kitapların geçmişini görüntülemek için "Ödünç Geçmişi" butonuna tıklayın.
+--------------------------------------------------------------------------------------------------
+Bilgilerin Güncellenmesi ve Çıkış:
+
+Bilgilerin Güncellenmesi: Mevcut bilgilerinizi güncellemek için "Bilgileri Güncelle" butonuna tıklayın.
+Çıkış: Oturumu kapatmak için "Çıkış" butonuna tıklayın.
+Yorum Yapma ve Silme:
+--------------------------------------------------------------------------------------------------
+Yorum Yapma: Bir kitaba yorum yapmak için, önce arama sonuçlarından bir kitabı seçin ve "Yorum Yap" butonuna tıklayın. Açılan pencerede yorumunuzu yazın ve "Onayla" butonuna tıklayarak yorumunuzu kaydedin.
+Yorum Silme: Mevcut yorumlarınızı silmek için, önce "Yorumları Sil" butonuna tıklayarak silmek istediğiniz yorumları seçin ve ardından "Yorumları Sil" butonuna tıklayın.

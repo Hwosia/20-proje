@@ -1,0 +1,27 @@
+Film ve Dizi İzleme Servisi Kullanım Kılavuzu
+Bu belge, Film ve Dizi İzleme Servisi uygulamasının kullanımını adım adım açıklar. Bu uygulama, kullanıcıların film eklemesine, filmleri listelemesine, izleme listeleri oluşturmasına ve izleme geçmişini görüntülemesine olanak tanır.
+
+Adımlar:
+Uygulamanın Başlatılması:
+
+Uygulamayı çalıştırmak için, Python 3.x'in bilgisayarınızda yüklü olması gerekir.
+Kod dosyasını çalıştırın: python film_servisi.py.
+Ardından, uygulama başlayacaktır.
+Film Ekleme:
+
+Ana ekrandan "Film Ekle" butonuna tıklayın.
+Açılan pencerede, film adını, yönetmenini ve türünü girin.
+"Kaydet" butonuna tıklayarak filmi ekleyin.
+Filmleri Listeleme:
+
+Ana ekrandan "Filmleri Listele" butonuna tıklayın.
+Açılan pencerede, mevcut filmleri görüntüleyebilirsiniz.
+İzleme Listesi Oluşturma:
+
+Ana ekrandan "İzleme Listesi Oluştur" butonuna tıklayın.
+Açılan pencerede, izlemek istediğiniz filmleri seçin.
+"Oluştur" butonuna tıklayarak izleme listesi oluşturun.
+İzleme Geçmişi Görüntüleme:
+
+Ana ekrandan "İzleme Geçmişi" butonuna tıklayın.
+Açılan pencerede, izleme listelerinizi ve izlediğiniz filmleri görüntüleyebilirsiniz.

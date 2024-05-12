@@ -1,0 +1,25 @@
+Bu uygulama, bir video oyun koleksiyonunu yönetmek için kullanılabilecek basit bir arayüze sahiptir. İşte uygulamayı kullanmanın adımları:
+
+Ana Sayfa:
+
+Uygulama başladığında, "Oyun Koleksiyonu Yönetimi" başlığı altında bir ana pencere görüntülenir.
+Oyun Ekle:
+
+"Oyun Ekle" butonuna tıklayarak yeni bir oyun ekleyebilirsiniz.
+Açılan pencerede, oyunun adını, türünü ve platformunu girmeniz istenir. Bu bilgileri girerek "Tamam" butonuna tıkladığınızda yeni oyun koleksiyona eklenir.
+Oyun Yıldızları:
+
+Her oyunun yanında bir yıldız derecelendirmesi bulunur. Yıldızları fare ile sürükleyerek oyunlara derecelendirme yapabilirsiniz.
+Yıldız derecelendirmesi yapıldıktan sonra otomatik olarak favori oyunlarınız güncellenir.
+Yorum Ekle:
+
+Her oyunun yanında "Yorum Ekle" butonu bulunur. Bu butona tıklayarak oyun için bir yorum ekleyebilirsiniz.
+Açılan pencerede yorumunuzu yazdıktan sonra "Tamam" butonuna tıklayarak yorumunuzu kaydedebilirsiniz.
+Favori Oyunlar:
+
+"Favori Oyunlarım" butonuna tıklayarak favori oyunlarınızı görüntüleyebilirsiniz.
+Favori oyunlarınız, yıldız derecelendirmesine göre sıralanarak listelenir.
+Oyun Yorumları:
+
+"Oyun Yorumları" butonuna tıklayarak koleksiyonunuzdaki oyunların yorumlarını görüntüleyebilirsiniz.
+Yorumu olan oyunlar, oyun adı ve yorum içeriğiyle birlikte liste halinde görüntülenir.

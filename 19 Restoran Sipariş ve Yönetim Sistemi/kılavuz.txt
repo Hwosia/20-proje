@@ -1,0 +1,35 @@
+Bu uygulama, bir restoranın menüsünü gösteren ve kullanıcının sipariş vermesine olanak tanıyan bir arayüze sahiptir. İşte uygulamayı kullanmanın adımları:
+
+Ana Sayfa:
+
+Uygulama başladığında, "YEMEKSEPETİ.COM" hoşgeldiniz mesajıyla karşılanırsınız. Ayrıca, mevcut özel fırsatlar ve kampanyalar hakkında bilgilendirme yapılır.
+
+Menü Seçenekleri:
+
+Üst menüde "Yemekler" ve "İçecekler" butonları bulunmaktadır. İlgilendiğiniz kategoriyi seçerek menüyü görüntüleyebilirsiniz.
+
+Ürün Seçimi:
+
+Menüdeki ürünler listelenir. İlgilendiğiniz ürüne tıklayarak miktarını belirleyebilir ve sepete ekleyebilirsiniz.
+Eğer seçtiğiniz ürün stokta yoksa, sipariş veremezsiniz. Stok durumu her ürünün yanında gösterilir.
+
+Sipariş Verme:
+
+Sepeti görmek ve sipariş vermek için "Sipariş Ver" butonuna tıklayın.
+Sepetinizdeki ürünlerin toplam fiyatı ve miktarı görüntülenir. Onayladığınızda, sipariş bilgileriniz istenecektir.
+
+Müşteri Bilgileri:
+
+Ad, soyad, telefon numarası, adres ve ödeme tipi gibi bilgileri girerek siparişinizi tamamlayın.
+
+Sipariş Onayı:
+
+Girilen bilgiler doğrultusunda bir onay mesajı alırsınız. Siparişiniz tamamlandıktan sonra teşekkür edilir.
+
+Sipariş Geçmişi:
+
+Önceki siparişlerinizi görüntülemek için "Sipariş Geçmişi" butonuna tıklayın. Siparişleriniz bir tabloda listelenir.
+
+Stok Güncelleme:
+
+"Stock Ekle" butonuna tıklayarak mevcut ürün stoklarını güncelleyebilirsiniz. Bu işlem için yetkili olmanız gerekmektedir.

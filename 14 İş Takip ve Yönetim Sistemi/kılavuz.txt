@@ -1,0 +1,44 @@
+Kayıt Olma:
+
+Ana ekranda "Kayıt Ol" sekmesine tıklayın.
+İsim, kimlik numarası ve şifre alanlarını doldurun.
+Tüm bilgileri doldurduktan sonra "Kayıt Ol" düğmesine tıklayarak kaydınızı tamamlayın.
+Başarılı bir şekilde kaydolduktan sonra, giriş yapabilirsiniz.
+------------------------------------------------------------------------
+Giriş Yapma:
+
+Ana ekranda "Giriş Yap" sekmesine tıklayın.
+Kayıt olurken kullandığınız kimlik numarası ve şifreyi girin.
+Bilgileri doldurduktan sonra "Giriş Yap" düğmesine tıklayarak sisteme giriş yapın.
+Doğru kimlik numarası ve şifre ile giriş yaptıktan sonra, iş takip ve yönetim sistemine erişim sağlayacaksınız.
+------------------------------------------------------------------------
+Proje Oluşturma:
+
+İş takip ve yönetim sistemine giriş yaptıktan sonra, "İş Takip ve Yönetim Sistemi" sekmesine erişin.
+"Proje Oluştur" düğmesine tıklayarak yeni bir proje oluşturun.
+Açılan pencereden projenin gününü ve saatinin seçin.
+"Tamamla" düğmesine tıklayarak proje oluşturma işlemini tamamlayın.
+------------------------------------------------------------------------
+Proje İptal Etme:
+
+Var olan projelerden birini iptal etmek için "İş Takip ve Yönetim Sistemi" sekmesine erişin.
+İptal etmek istediğiniz projeyi seçin.
+Ardından "Proje İptal Et" düğmesine tıklayarak projeyi iptal edin.
+------------------------------------------------------------------------
+Görevli Atama:
+
+Bir projeye görevli atamak için "İş Takip ve Yönetim Sistemi" sekmesine erişin.
+Görevli atamak istediğiniz projeyi seçin.
+Açılan pencereden projeye bir görevli atayın.
+------------------------------------------------------------------------
+İlerleme Takibi:
+
+"İş Takip ve Yönetim Sistemi" sekmesinde, "İlerleme Takip" düğmesine tıklayarak ilerleme takibini başlatın.
+Açılan pencerede projelerin tamamlanma oranlarını görebilirsiniz.
+------------------------------------------------------------------------
+Çıkış Yapma:
+
+İşiniz bittiğinde, sistemden çıkmak için "Çıkış" düğmesine tıklayın.
+Güvenli bir şekilde çıkış yaparak uygulamayı kapatın.
+Bu adımları takip ederek iş takip ve yönetim sistemini kullanabilir ve projelerinizi organize edebilirsiniz. Herhangi bir sorunuz veya yardıma ihtiyacınız varsa, lütfen bize bildirin!
+------------------------------------------------------------------------

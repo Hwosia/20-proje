@@ -1,0 +1,38 @@
+Online Kurs Uygulaması Kullanıcı Kılavuzu
+
+Bu kılavuz, Online Kurs Uygulaması'nın nasıl kullanılacağını adım adım açıklamaktadır.
+
+1. Kayıt Ol
+
+Uygulamaya ilk kez giriş yaptığınızda "Kayıt Ol" sekmesine tıklayın.
+İsim, E-posta ve Şifre bilgilerinizi girin.
+"Kayıt Ol" butonuna tıklayarak kaydınızı tamamlayın.
+Kayıt başarılı olduğunda, giriş yapabilirsiniz.
+2. Giriş Yap
+
+Kaydınızı tamamladıktan sonra "Giriş Yap" sekmesine tıklayın.
+E-posta ve Şifre bilgilerinizi girerek "Giriş Yap" butonuna tıklayın.
+Giriş başarılı olduğunda, sistem size kurslar, materyaller ve diğer işlevler sunacaktır.
+3. Kursları Görüntüle ve Satın Al
+
+"Kurslar" sekmesine tıklayarak mevcut kursları görüntüleyebilirsiniz.
+İlgilendiğiniz kursa tıklayarak detaylı bilgileri görebilirsiniz.
+Bir kursu satın almak için "Kurs Al" butonuna tıklayın.
+Kurs satın alma işlemi başarılı olduğunda, kurs listenize eklenecektir.
+4. Materyalleri Görüntüle ve Erişim Sağla
+
+"Materyaller" sekmesine tıklayarak mevcut materyalleri görüntüleyebilirsiniz.
+Materyal adına tıklayarak erişim sağlayabilirsiniz.
+5. Soru Sor
+
+"Soru Sor" sekmesine tıklayarak sorularınızı gönderebilirsiniz.
+Soru kutusuna sorunuzu yazın ve "Soru Sor" butonuna tıklayın.
+Sorunuz sistem yöneticisi tarafından cevaplandığında size bilgilendirme yapılacaktır.
+6. Profilinizi Görüntüle ve Güncelle
+
+"Kurslar" sekmesinde "Profil" butonuna tıklayarak profilinizi görüntüleyebilirsiniz.
+Profil bilgilerinizi güncellemek için "Profil" ekranında bulunan yönergeleri izleyin.
+7. Çıkış Yap
+
+İşiniz bittiğinde, sağ üst köşedeki "Çıkış" butonuna tıklayarak çıkış yapabilirsiniz.
+Bu adımları takip ederek Online Kurs Uygulaması'nı etkili bir şekilde kullanabilirsiniz.

@@ -1,0 +1,35 @@
+Bu uygulama, Python programlama dili ve Tkinter kütüphanesi kullanılarak oluşturulmuştur. İşlevselliği ve kullanıcı arayüzü aşağıdaki sınıflar ve yöntemler aracılığıyla sağlanmıştır.
+
+RestaurantApp Sınıfı:
+
+Bu sınıf, uygulamanın ana penceresini ve tüm işlevselliği içerir.
+Restoran menüsü ve sepete eklenen ürünlerin yönetimi bu sınıf içinde gerçekleştirilir.
+
+populate_menu Metodu:
+
+Menüdeki ürünlerin listesini alır ve bu ürünleri bir pencereye yerleştirir.
+Her ürün için bir buton oluşturur ve kullanıcıların ürünleri seçmelerine olanak tanır.
+
+add_to_selected ve remove_from_selected Metodları:
+
+Kullanıcının seçtiği ürünleri sepete eklemesini veya sepetten çıkarmasını sağlar.
+
+place_order Metodu:
+
+Kullanıcının siparişi onaylamasını ve gerekli müşteri bilgilerini girmesini sağlar.
+Sipariş tamamlandığında, sipariş bilgilerini işleyerek kullanıcıya bir onay mesajı gösterir.
+
+process_order Metodu:
+
+Kullanıcının girdiği müşteri bilgilerini alır ve sipariş geçmişine ekler.
+
+show_drinks, show_foods ve show_order_history Metodları:
+
+İlgili menüyü ve sipariş geçmişini görüntülemek için yardımcı metodlar.
+
+add_stock ve update_stock Metodları:
+
+Mevcut ürün stoklarını güncellemek için gerekli ara yüzü sağlar.
+
+
+Bu belge ve kılavuz, kullanıcıların uygulamayı kullanırken rehberlik etmek ve temel işlevselliği anlamalarını sağlamak için tasarlanmıştır. Uygulama kullanıcı dostu bir arayüze sahiptir ve kolayca etkileşime girebilirsiniz.

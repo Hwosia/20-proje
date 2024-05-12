@@ -1,0 +1,33 @@
+İşte sistemin nasıl kullanılacağına dair bir kılavuz:
+------------------------------------------------------------------------
+
+Etkinlik Ekleme:
+
+"Etkinlik Ekle" düğmesine tıklayarak yeni bir etkinlik ekleyin.
+Açılan pencerede etkinliğin adını, yerini ve tarihini girin.
+Tüm alanları doldurduktan sonra "Tamam" veya "Ekle" düğmesine tıklayarak etkinliği kaydedin.
+------------------------------------------------------------------------
+Etkinlik Detaylarını Görüntüleme:
+
+Ekranın sol tarafında yer alan etkinlik listesinden bir etkinliği seçin.
+Ardından "Etkinlik Detayları" düğmesine tıklayarak seçilen etkinliğin ayrıntılarını görüntüleyin.
+Etkinliğin adı, yeri, tarihi ve katılımcılarıyla ilgili bilgileri bu pencerede bulabilirsiniz.
+------------------------------------------------------------------------
+Etkinlik Silme:
+
+Etkinlik detaylarını görüntülerken, eğer etkinliği silmek isterseniz "Etkinliği Sil" düğmesine tıklayarak etkinliği silebilirsiniz.
+Silme işlemi onaylandıktan sonra etkinlik ve etkinliğe kayıtlı tüm katılımcılar kalıcı olarak silinecektir.
+------------------------------------------------------------------------
+Katılımcı Ekleme:
+
+Etkinlik detaylarını görüntülerken "Katılımcı Ekle" düğmesine tıklayarak yeni bir katılımcı ekleyebilirsiniz.
+Açılan pencerede katılımcının adını, soyadını ve telefon numarasını girin.
+Bilgileri tamamladıktan sonra "Tamam" veya "Ekle" düğmesine tıklayarak katılımcıyı ekleyin.
+------------------------------------------------------------------------
+Bilet Kesme:
+
+Etkinlik detaylarını görüntülerken katılımcıların listesini görebilirsiniz.
+Katılımcıların yanındaki "Bilet Kes" düğmesine tıklayarak biletlerini kesin.
+Bu işlem, katılımcının etkinlik için ödeme yaptığını ve katılımcının etkinliğe katılacağını gösterir.
+Bu adımları takip ederek sistemi kullanabilir ve etkinliklerinizi yönetebilirsiniz. Herhangi bir sorunuz varsa, lütfen bana bildirin!
+------------------------------------------------------------------------

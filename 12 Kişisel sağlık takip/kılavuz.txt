@@ -1,0 +1,32 @@
+------------------------------------------------------------------------
+Kullanıcı Bilgileri Eklemek:
+
+"Kullanıcı" sekmesine tıklayarak kullanıcı bilgilerinizi girebilirsiniz.
+Adınızı, soyadınızı, yaşınızı, cinsiyetinizi, şikayetinizi ve telefon numaranızı ilgili alanlara girin.
+Ardından "Ekle" butonuna tıklayarak bu bilgileri sisteme ekleyin.
+------------------------------------------------------------------------
+Sağlık Bilgilerini Güncellemek:
+
+"Sağlık Bilgileri" sekmesine tıklayarak sağlık bilgilerinizi güncelleyebilirsiniz.
+Boyunuzu, kilonuzu, kan grubunuzu, şekeri durumunuzu ve tansiyon durumunuzu ilgili alanlara girin.
+Güncellemeleri yapmak için "Güncelle" butonuna tıklayın.
+------------------------------------------------------------------------
+Egzersiz Seviyelerini Belirlemek:
+
+"Egzersiz" sekmesine tıklayarak egzersiz seviyelerinizi belirleyebilirsiniz.
+Egzersiz yapmak istediğiniz seviyeleri seçin. Seviye 1, seviye 2 ve seviye 3 seçenekleri mevcuttur.
+------------------------------------------------------------------------
+Egzersiz Başlatmak:
+
+Egzersiz yapmak için "Başla" butonuna tıklayın.
+Sistem, sizin belirttiğiniz şikayete göre önerilen egzersizi size gösterecek.
+------------------------------------------------------------------------
+Egzersiz Önerilerini Görüntülemek:
+
+Egzersiz başlatıldıktan sonra sistem, sizin belirttiğiniz şikayete uygun egzersiz önerisini bir ileti penceresinde gösterecek.
+Bu adımları takip ederek sistemi kullanabilirsiniz. Herhangi bir sorunla karşılaşırsanız, lütfen bana bildirin!
+------------------------------------------------------------------------
+
+
+
+

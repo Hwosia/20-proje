@@ -1,0 +1,34 @@
+Kütüphane Uygulaması Teknik Belgesi
+Bu bölüm, uygulamanın iç yapısını ve nasıl çalıştığını anlatır.
+
+Uygulama Yapısı:
+Tkinter Arayüzü: Uygulama, Tkinter kütüphanesi kullanılarak bir GUI (Grafiksel Kullanıcı Arayüzü) ile oluşturulmuştur.
+
+SQLite Veritabanı: Kitaplar, üyeler, ödünç işlemleri ve yorumlar gibi veriler, SQLite veritabanında depolanmaktadır.
+
+Kullanıcı Yetkilendirmesi: Kullanıcıların giriş yapması ve kayıt olması için kullanıcı adı ve şifre kullanılmaktadır.
+
+Kitap Arama ve Ödünç Alma: Kullanıcılar, kitap adı, yazar veya yayın evi gibi kriterlere göre kitap arayabilir ve ödünç alabilirler.
+
+Ödünç Geçmişi: Her kullanıcının ödünç aldığı kitapların bir geçmişi bulunmaktadır.
+
+Yorumlar: Kullanıcılar, kitaplar hakkında yorum yapabilir ve bu yorumlar diğer kullanıcılar tarafından görülebilir.
+
+Kod Yapısı:
+Ana Sınıf (KütüphaneUygulaması): Tkinter penceresini başlatır ve arayüzün genel yapısını yönetir.
+
+Üye İşlemleri: Kullanıcı girişi, kayıt olma, çıkış yapma ve bilgi güncelleme işlemleri burada gerçekleştirilir.
+
+Kitap Arama ve Ödünç Alma: Kullanıcıların kitap araması, seçimi ve ödünç alma işlemleri burada gerçekleştirilir.
+
+Ödünç Geçmişi ve Yorumlar: Kullanıcıların ödünç geçmişini görüntülemesi ve yorum yapması burada gerçekleştirilir.
+
+Veritabanı Yapısı:
+kutuphane.db: SQLite veritabanı dosyasıdır.
+Tablolar: kutuphane_kitapları, kutuphane_uyeler, odunc ve yorumlar gibi tablolar, ilgili verileri depolar.
+Özel Fonksiyonlar:
+uye_giris_onay(): Kullanıcı girişini doğrular ve gerekirse kullanıcıyı ana ekrana yönlendirir.
+kitap_sorgula(): Kullanıcının belirli kriterlere göre kitap aramasını gerçekleştirir.
+odunc_al(): Kullanıcının seçtiği kitabı ödünç alır ve veritabanını günceller.
+yorum_yap(): Kullanıcının bir kitaba yorum yapmasını sağlar ve yorumları veritabanına kaydeder.
+Bu belge, uygulamanın temel işlevlerini ve teknik detaylarını anlatmaktadır. Uygulamayı geliştirmek veya özelleştirmek için bu bilgileri kullanabilirsiniz.

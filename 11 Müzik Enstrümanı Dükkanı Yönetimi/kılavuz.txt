@@ -1,0 +1,38 @@
+Tabii, işte sistemi nasıl kullanabileceğinize dair bir kılavuz:
+------------------------------------------------------------------------
+Üye Girişi ve Kaydı:
+
+Sistemi kullanmaya başlamak için öncelikle bir kullanıcı hesabı oluşturmanız gerekmektedir. Bunun için "Kayıt Ol" butonuna tıklayarak yeni bir kullanıcı hesabı oluşturabilirsiniz.
+Daha önceden bir hesap oluşturduysanız, "Giriş Yap" butonuna tıklayarak kullanıcı adınızı ve şifrenizi girerek sisteme giriş yapabilirsiniz.
+------------------------------------------------------------------------
+Stok Sorgulama ve Ekleme:
+
+Sisteme giriş yaptıktan sonra "Stock Sorgulama ve Ekleme" bölümünden stok sorgulayabilir ve yeni ürünler ekleyebilirsiniz.
+Ürün adı ve/veya ürün sahibi firma adıyla arama yaparak stokta bulunan ürünleri listeleyebilirsiniz.
+Yeni ürün eklemek için "Stock Ekle" butonuna tıklayarak açılan pencerede ürün bilgilerini girip "Stock Ekle" butonuna basabilirsiniz.
+------------------------------------------------------------------------
+Stok Temizleme:
+
+Stokta bulunan bir ürünü silmek için öncelikle ürün listesinden seçmeniz gerekmektedir.
+Seçili bir ürünü silmek için "Stock Temizle" butonuna tıklayabilirsiniz.
+------------------------------------------------------------------------
+Sipariş Yönetimi:
+
+Sistemi kullanarak stoktaki ürünlerden sipariş verebilirsiniz.
+"Sipariş Yönetimi" bölümünden mevcut stok listesinden istediğiniz ürünü seçerek sipariş verebilirsiniz.
+Ekstra stok siparişi vermek için "Ekstra Stok Siparişi Ekle" butonuna tıklayarak açılan pencerede istediğiniz ürünün ekstra stok miktarını belirleyip sipariş verebilirsiniz.
+------------------------------------------------------------------------
+Bilgileri Güncelle:
+
+Kullanıcı bilgilerinizi güncellemek için "Bilgileri Güncelle" butonuna tıklayarak açılan pencereden istediğiniz bilgileri güncelleyebilirsiniz.
+------------------------------------------------------------------------
+Çıkış Yap:
+
+Sistemi kullanmayı tamamladıktan sonra "Çıkış" butonuna tıklayarak oturumunuzu sonlandırabilirsiniz.
+Bu adımları takip ederek sistemi kullanabilirsiniz. Eğer herhangi bir sorunla karşılaşırsanız veya ek bilgiye ihtiyacınız olursa, lütfen bana bildirin!
+------------------------------------------------------------------------
+
+
+
+
+
