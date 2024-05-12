@@ -1,0 +1,34 @@
+Randevu Uygulaması Kullanıcı Kılavuzu
+
+Bu kılavuz, randevu uygulamasını kullanmanıza yardımcı olacak adımları içermektedir.
+
+
+1. Kayıt Ol:
+
+"Kayıt Ol" sekmesine tıklayın.
+İsim, soyisim, kimlik numarası ve şifrenizi girin.
+"Kayıt Ol" butonuna tıklayarak kaydınızı tamamlayın.
+
+2. Giriş Yap:
+
+"Giriş Yap" sekmesine tıklayın.
+Kayıt olurken kullandığınız kimlik numaranızı ve şifrenizi girin.
+"Giriş Yap" butonuna tıklayarak sisteme giriş yapın.
+
+3. Randevu Al:
+
+Giriş yaptıktan sonra "Randevu" sekmesi görünecektir. Bu sekme üzerinden randevu işlemlerini gerçekleştirebilirsiniz.
+"Randevu Al" butonuna tıklayın.
+Uzmanlık alanını seçin.
+Doktoru ve uygun gün/zamanı seçin.
+"Randevu Tamamla" butonuna tıklayarak randevunuzu oluşturun.
+
+4. Randevularınızı Görüntüleme ve İptal Etme:
+
+Randevularınız "Randevu" sekmesinde listelenecektir.
+İstediğiniz randevuyu iptal etmek için listeden seçin.
+"Randevu İptal Et" butonuna tıklayarak seçilen randevuyu iptal edin.
+
+5. Çıkış:
+
+İşlemlerinizi tamamladıktan sonra "Çıkış" butonuna tıklayarak uygulamadan çıkabilirsiniz.

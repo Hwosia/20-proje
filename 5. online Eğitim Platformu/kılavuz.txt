@@ -1,0 +1,43 @@
+Kayıt Olma:
+
+Uygulamayı ilk kez kullanıyorsanız, "Kayıt Ol" sekmesine tıklayın.
+İsim Soyisim, E-posta ve Şifre bilgilerinizi girin.
+"Kayıt Ol" düğmesine tıklayarak kaydınızı tamamlayın.
+------------------------------------------------------------------------
+Giriş Yapma:
+
+Zaten kayıtlı bir kullanıcıysanız, "Giriş Yap" sekmesine tıklayın.
+E-posta ve Şifre bilgilerinizi girin.
+"Giriş Yap" düğmesine tıklayarak giriş yapın.
+------------------------------------------------------------------------
+Profil Bilgilerini Güncelleme:
+
+"Kurslar" sekmesinde, sağ üst köşede bulunan "Profil" butonuna tıklayın.
+Gelen pencerede, bilgilerinizi güncellemek isteyip istemediğinize karar verin.
+Bilgilerinizi güncellemek istiyorsanız, yeni bilgilerinizi girin ve "Tamam" düğmesine tıklayarak güncelleme işlemini tamamlayın.
+------------------------------------------------------------------------
+Kurs Alımı:
+
+"Kurslar" sekmesinde, "Kurs Al" butonuna tıklayın.
+Açılan listeden almak istediğiniz kursu seçin.
+"Kursu Al" butonuna tıklayarak seçtiğiniz kursu satın alın.
+------------------------------------------------------------------------
+Kursları İzleme:
+
+"Kurslar" sekmesinde, "Kursu İzle" butonuna tıklayarak satın aldığınız kursu izleyin.
+İzlemek istediğiniz kursu seçin ve "İzle" butonuna tıklayarak kursun video içeriğini başlatın.
+------------------------------------------------------------------------
+Kurs İade Etme:
+
+"Kurslar" sekmesinde, iade etmek istediğiniz kursu seçin.
+"İade Et" butonuna tıklayarak seçili kursu iade edin.
+------------------------------------------------------------------------
+Profil Bilgilerini Görüntüleme:
+
+"Kurslar" sekmesinde, sağ üst köşede bulunan "Profil" butonuna tıklayın.
+Profil bilgilerinizi görüntülemek için "Evet" seçeneğini seçin.
+------------------------------------------------------------------------
+Çıkış Yapma:
+
+İşiniz bittiğinde, sağ üst köşede bulunan "Çıkış" butonuna tıklayarak uygulamadan çıkış yapın.
+------------------------------------------------------------------------

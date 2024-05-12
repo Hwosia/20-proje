@@ -1,0 +1,40 @@
+Bu spor randevu uygulaması, kullanıcıların spor randevuları almasına ve takip etmesine olanak tanır. 
+İşlevsellikler şunlardır:
+------------------------------------------------------------------------
+Kayıt Olma:
+
+"Kayıt Ol" sekmesine tıklayarak isim, kimlik numarası ve şifre bilgilerinizi girerek kayıt olabilirsiniz.
+------------------------------------------------------------------------
+Giriş Yapma:
+
+Kayıt olduktan sonra "Giriş Yap" sekmesine tıklayarak kimlik numaranız ve şifrenizle giriş yapabilirsiniz.
+------------------------------------------------------------------------
+Randevu Alma:
+
+Giriş yaptıktan sonra "Spor Randevuları" sekmesinde mevcut spor dallarından birini seçip, bir antrenör ve randevu tarihi belirleyerek randevu alabilirsiniz.
+------------------------------------------------------------------------
+Randevu İptal Etme:
+
+Aldığınız randevuyu "Randevu İptal Et" butonuyla iptal edebilirsiniz.
+------------------------------------------------------------------------
+İlerleme Takibi:
+
+Aldığınız randevuların ardından "İlerleme Takip" butonuna tıklayarak yapılan hareketleri görebilirsiniz.
+------------------------------------------------------------------------
+Rapor Oluşturma:
+
+İlerleme takibi sırasında, hangi hareketlerin yapıldığını ve güncel kilo/boy bilgilerinizi girerek bir rapor oluşturabilirsiniz.
+------------------------------------------------------------------------
+Rapor Geçmişi Görüntüleme:
+
+Daha önce oluşturduğunuz raporları "Rapor Geçmişi" butonuna tıklayarak görebilirsiniz.
+------------------------------------------------------------------------
+Raporları Güncelleme:
+
+Geçmişte oluşturduğunuz raporları seçerek güncelleyebilirsiniz.
+------------------------------------------------------------------------
+Çıkış Yapma:
+
+İşlemlerinizi tamamladıktan sonra "Çıkış" butonuna tıklayarak uygulamadan çıkabilirsiniz.
+Uygulama, spor randevularınızı yönetmenize ve ilerlemenizi takip etmenize olanak tanırken, aynı zamanda spor dallarına özgü antrenman hareketlerini gösterir ve kişisel raporlar oluşturmanıza olanak tanır.
+------------------------------------------------------------------------

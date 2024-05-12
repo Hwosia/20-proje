@@ -1,0 +1,57 @@
+Bu kod, bir kütüphane yönetim sistemi uygulamasını temsil eder. İşlevsellikleri şunlardır:
+
+Üye İşlemleri:
+
+Üye Girişi: Kullanıcı adı ve şifre ile giriş yapabilirsiniz.
+Kayıt Ol: Yeni bir kullanıcı hesabı oluşturabilirsiniz.
+Bilgileri Güncelle: Mevcut kullanıcı bilgilerini güncelleyebilirsiniz.
+Çıkış: Oturumu kapatır.
+
+Kitap Sorgulama ve Ekleme:
+
+Kitap Sorgula: Kitap adı, yazar veya yayın evi ile arama yapabilirsiniz. Sonuçlar Treeview'de görüntülenir.
+Ödünç Al: Seçili bir kitabı ödünç alabilirsiniz.
+
+Ödünç Geçmişi:
+
+Ödünç Geçmişi Göster: Kullanıcının ödünç aldığı kitapların bir listesini görüntüler.
+İade Et: Seçili bir ödünç işlemini iptal edebilirsiniz.
+
+Kullanım Kılavuzu:
+------------------------------------------------------------------------
+Üye Girişi:
+
+Programı başlatın.
+"Üye Girişi" düğmesine tıklayın.
+Kullanıcı adı ve şifrenizi girin.
+"Giriş Yap" düğmesine tıklayarak giriş yapın.
+------------------------------------------------------------------------
+Yeni Üye Kaydı:
+
+"Kayıt Ol" düğmesine tıklayın.
+Ad, soyadı, telefon, kullanıcı adı ve şifre bilgilerinizi girin.
+"Kayıt Ol" düğmesine tıklayarak yeni üyelik oluşturun.
+------------------------------------------------------------------------
+Kitap Sorgulama:
+
+Ana ekranda kitap adı, yazar veya yayın evi bilgilerini girin.
+"Sorgula" düğmesine tıklayarak kitapları arayın.
+Sonuçlar altta bulunan listede görüntülenir.
+İstenen kitabı seçerek "Ödünç Al" düğmesine tıklayarak ödünç alabilirsiniz.
+------------------------------------------------------------------------
+Ödünç Geçmişi Gösterme:
+
+Ana ekranda "Ödünç Geçmişi" düğmesine tıklayın.
+Ödünç geçmişi penceresinde kullanıcının ödünç aldığı kitapların listesini görebilirsiniz.
+İstenirse kitapları iade etmek için "İade Et" düğmesine tıklayabilirsiniz.
+------------------------------------------------------------------------
+Bilgileri Güncelleme:
+
+Üye girişi yapıldıktan sonra "Bilgileri Güncelle" düğmesine tıklayın.
+Açılan pencerede yeni bilgilerinizi girin.
+"Güncelle" düğmesine tıklayarak bilgilerinizi güncelleyin.
+------------------------------------------------------------------------
+Çıkış:
+
+Üye girişi yapıldıktan sonra "Çıkış" düğmesine tıklayarak çıkış yapabilirsiniz.
+------------------------------------------------------------------------

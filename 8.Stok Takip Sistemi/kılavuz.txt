@@ -1,0 +1,28 @@
+
+Bu sistemi kullanarak stok yönetimi yapabilir ve kullanıcı işlemleri gerçekleştirebilirsiniz. 
+İşte sistemi kullanmanız için adımlar:
+------------------------------------------------------------------------
+
+Üye Kaydı ve Girişi:
+
+İlk olarak, sisteme üye olmanız gerekiyor. Bunun için "Kayıt Ol" butonuna tıklayarak kullanıcı adı, şifre ve e-posta adresinizi girmelisiniz.
+Daha sonra, üye olduğunuz bilgilerle sisteme giriş yapabilirsiniz. "Giriş Yap" butonuna tıklayarak kullanıcı adı ve şifrenizi girmeniz yeterlidir.
+------------------------------------------------------------------------
+Stok Sorgulama ve Ekleme:
+
+Sisteme giriş yaptıktan sonra, ürün stoklarını sorgulayabilir veya yeni ürün stokları ekleyebilirsiniz.
+"Ürün İsmi" ve "Ürün Sahibi Firma" alanlarını doldurarak stok sorgulama yapabilirsiniz.
+Yeni bir stok eklemek için "Stock Ekle" butonuna tıklayarak ürün ismi, ürün sahibi firma ve stok miktarını girebilirsiniz.
+------------------------------------------------------------------------
+Ekstra Stok Siparişi Verme:
+
+"Sipariş Yönetimi" butonuna tıklayarak stok miktarını arttırmak istediğiniz ürünü seçebilirsiniz.
+Ardından, ekstra stok miktarını girmek için "Ekstra Stok Siparişi Ekle" butonuna tıklayın.
+Gelen pencerede ekstra stok miktarını belirtip "Sipariş Ver" butonuna tıklayarak ekstra stok siparişi verebilirsiniz.
+------------------------------------------------------------------------
+Üye Bilgilerini Güncelleme ve Çıkış:
+
+"Bilgileri Güncelle" butonuyla kullanıcı bilgilerinizi güncelleyebilirsiniz. Kullanıcı adı, şifre ve e-posta adresinizi değiştirebilirsiniz.
+"Çıkış" butonuna tıklayarak sistemden çıkış yapabilirsiniz.
+Bu adımları takip ederek, stok yönetimi ve kullanıcı işlemlerini başarılı bir şekilde gerçekleştirebilirsiniz.
+------------------------------------------------------------------------

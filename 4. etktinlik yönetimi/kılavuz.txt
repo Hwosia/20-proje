@@ -1,0 +1,38 @@
+Bu etkinlik yönetim sistemi, etkinlik oluşturma, etkinliklere katılımcı ekleme, katılımcılara bilet kesme ve etkinlikleri silme gibi temel işlevleri sağlar. İşte sistemi kullanmanın adımları:
+------------------------------------------------------------------------
+Uygulamayı Başlatın: 
+Python ile kodu çalıştırın ve etkinlik yönetim uygulamasını başlatın.
+------------------------------------------------------------------------
+Etkinlikleri Görüntüleyin:
+Ana pencerede, "Etkinlik Detayları" butonuna tıklayarak etkinliklerin detaylarını görüntüleyebilirsiniz.
+------------------------------------------------------------------------
+Yeni Etkinlik Ekleyin:
+
+Ana pencerede "Etkinlik Ekle" butonuna tıklayın.
+Açılan pencerede, etkinliğin adını, yerini ve tarihini girin.
+Bilgileri girdikten sonra "Tamam" veya "Enter" tuşuna basın.
+------------------------------------------------------------------------
+Etkinlik Detaylarını Görüntüleyin:
+
+Ana pencerede, etkinlik listesinden görüntülemek istediğiniz bir etkinliği seçin.
+"Etkinlik Detayları" butonuna tıklayın.
+Açılan pencerede, etkinliğin detaylarını ve katılımcılarını görebilirsiniz.
+------------------------------------------------------------------------
+Katılımcı Ekleme:
+
+Etkinlik detayları penceresinde, "Katılımcı Ekle" butonuna tıklayın.
+İsim, soyisim ve telefon numarası gibi bilgileri girin.
+Bilgileri girdikten sonra "Tamam" veya "Enter" tuşuna basın.
+------------------------------------------------------------------------
+Bilet Kesme:
+
+Etkinlik detayları penceresinde, bilet kesmek istediğiniz katılımcıyı seçin.
+"Bilet Kes" butonuna tıklayın.
+Seçili katılımcının bilet durumu güncellenecektir.
+------------------------------------------------------------------------
+Etkinlik Silme:
+
+Etkinlik detayları penceresinde, "Etkinliği Sil" butonuna tıklayın.
+Silme işlemini onaylamak için çıkan pencerede "Evet" veya "Hayır" seçeneğinden birine tıklayın.
+Bu adımları takip ederek etkinlikleri yönetebilir ve katılımcılarınızı biletleyebilirsiniz.
+------------------------------------------------------------------------

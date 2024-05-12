@@ -1,0 +1,41 @@
+Araç Kiralama Uygulaması Kılavuzu
+
+1. Başlangıç:
+
+Kodu çalıştırdığınızda, bir kullanıcı arayüzü açılır.
+Kullanıcılar "Kayıt Ol" ve "Giriş Yap" sekmeleri arasında geçiş yapabilirler.
+
+
+2. Kayıt Ol:
+
+"Kayıt Ol" sekmesine tıkladığınızda, bir kayıt formu açılır.
+İsim, TC Kimlik Numarası, Telefon Numarası ve Şifre bilgilerini girerek kayıt olabilirsiniz.
+"Kayıt Ol" butonuna tıkladığınızda, bilgiler veritabanına kaydedilir ve giriş sekmesine yönlendirilirsiniz.
+
+3. Giriş Yap:
+
+"Giriş Yap" sekmesine tıkladığınızda, TC Kimlik Numaranız ve Şifreniz ile giriş yapabilirsiniz.
+Geçerli bilgilerle giriş yaptıktan sonra, "Kiralama İşlemleri" sekmesine yönlendirilirsiniz.
+
+4. Kiralama İşlemleri:
+
+Bu sekmede, araç kiralamak, kiralanan araçları görüntülemek ve kiralamayı iptal etmek mümkündür.
+"Araç Kirala" butonuna tıklayarak bir araç kiralama penceresi açılır.
+Araç türü, marka ve yılını seçip "Fiyat Getir" butonuna tıklayarak günlük kira fiyatını görebilirsiniz.
+"Kiralama Tamamla" butonuna tıklayarak aracı kiralayabilirsiniz.
+"Müşteri Bilgileri" butonuna tıklayarak bilgilerinizi güncelleyebilirsiniz.
+"Kiralama İptal Et" butonu ile kiraladığınız araçları iptal edebilirsiniz.
+"Çıkış" butonuna tıklayarak uygulamadan çıkabilirsiniz.
+
+5. Bakiye Yükleme:
+
+"Kiralama İşlemleri" sekmesinde, mevcut bakiyenizi görebilirsiniz.
+"Bakiye Yükle" butonuna tıklayarak rastgele bakiye yükleyebilirsiniz.
+
+6. Notlar:
+
+Aracın yılı 2000-2024 aralığında olmalıdır.
+Fiyatlar rastgele oluşturulur.
+TC Kimlik Numarası ve Şifre ile giriş yapılabilir.
+Veritabanı dosyası "arac_kiralama.db" adında oluşturulur.
+Bu kılavuz, araç kiralama uygulamasının nasıl kullanılacağına dair temel bilgileri içermektedir. Umarım işinize yarar!

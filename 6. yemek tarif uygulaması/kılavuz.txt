@@ -1,0 +1,28 @@
+Bu yemek tarifi uygulaması kullanıcıların yemek tarifleri eklemesine, sorgulamasına ve kaydetmesine olanak sağlar. 
+İşte uygulamanın kullanımıyla ilgili bir kılavuz:
+------------------------------------------------------------------------
+Üye İşlemleri:
+
+Uygulamayı başlattığınızda, ilk olarak "Üye İşlemleri" bölümünde karşılanırsınız.
+Eğer daha önceden kayıt olduysanız, kullanıcı adı ve şifrenizi girerek "Giriş Yap" butonuna tıklayarak oturum açabilirsiniz.
+Eğer yeni bir kullanıcıysanız, "Kayıt Ol" butonuna tıklayarak kayıt formunu doldurabilir ve ardından kaydolabilirsiniz.
+Oturum açtıktan sonra, "Hoş geldiniz, [kullanıcı adı]!" şeklinde bir karşılama mesajı görüntülenir.
+------------------------------------------------------------------------
+Yemek Sorgulama ve Ekleme:
+
+Bu bölümde, yemek tariflerini sorgulayabilir ve yeni tarifler ekleyebilirsiniz.
+Yemek adı, malzemeler ve tarif alanlarına arama yapmak istediğiniz öğeleri girin.
+Ardından "Sorgula" butonuna tıklayarak girilen kriterlere göre yemekleri listeleme yapabilirsiniz.
+Yeni bir yemek eklemek istiyorsanız, yemek adı, malzemeler ve tarif bilgilerini girin, ardından "Ekle" butonuna tıklayın.
+------------------------------------------------------------------------
+Malzeme ve Tarifi Görüntüle:
+
+Yemek tarifleri listelendiğinde, herhangi bir tarife tıkladığınızda "Malzeme ve Tarifi Görüntüle" butonu aktif olur.
+Bu butona tıkladığınızda seçili tarifin malzemeleri ve tarifi ayrı bir pencerede görüntülenir.
+Eğer tarifi beğenmediyseniz, "Tarifi Sil" butonuna tıklayarak tarifi veritabanından silebilirsiniz.
+------------------------------------------------------------------------
+Çıkış Yap:
+
+Oturumunuzu sonlandırmak istediğinizde, "Çıkış Yap" butonuna tıklayabilirsiniz.
+Bu işlem, sizi oturum açma ekranına geri götürür ve tekrar oturum açmanız gerekecektir.
+Bu şekilde, uygulama kullanıcıların yemek tariflerini eklemesini, sorgulamasını, görüntülemesini ve yönetmesini sağlar. İyi yemekler!
